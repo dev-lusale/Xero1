@@ -1,0 +1,3 @@
+@echo off
+echo Starting Xero1 Number Base Converter...
+dotnet run --configuration Release
